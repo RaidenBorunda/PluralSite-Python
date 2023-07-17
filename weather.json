@@ -1,0 +1,44 @@
+{
+    "coord":{
+       "lon":-117.241,
+       "lat":32.9409
+    },
+    "weather":[
+       {
+          "id":801,
+          "main":"Clouds",
+          "description":"few clouds",
+          "icon":"02d"
+       }
+    ],
+    "base":"stations",
+    "main":{
+       "temp":86.32,
+       "feels_like":88.38,
+       "temp_min":75.49,
+       "temp_max":97,
+       "pressure":1012,
+       "humidity":50
+    },
+    "visibility":10000,
+    "wind":{
+       "speed":4,
+       "deg":225,
+       "gust":5.01
+    },
+    "clouds":{
+       "all":19
+    },
+    "dt":1660085921,
+    "sys":{
+       "type":2,
+       "id":2012990,
+       "country":"US",
+       "sunrise":1660050487,
+       "sunset":1660099252
+    },
+    "timezone":-25200,
+    "id":5342353,
+    "name":"Del Mar",
+    "cod":200
+ }
